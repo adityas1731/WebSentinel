@@ -1,44 +1,8 @@
-	-> Install python and pip library.
- -> Install rust from its official website 
- 
-**Windows**
--> Install numpy : 
-	pip install numpy
 
--> Install pandas
-	pip install pandas
-
--> Install joblib
-	pip install joblib
-
--> Install tokenizers
-	pip install tokenizer
-	
--> Install langdetect
-	pip install langdetect
-
--> Install scikit-learn
-	pip install scikit-learn
-
--> Install tkinter
-	pip install tk
-	
 ```
 pip install numpy pandas joblib tokenizers langdetect scikit-learn tk
 ```
 
-
-
-**Linux**
-
-Run ./install_packages.sh in terminal to install the required packages:
-	numpy
-	pandas
-	joblib
-	tokenizers
-	angdetect
-	scikit-learn
-	tkinter
 
 #### 1. Data Tokenization
 
